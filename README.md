@@ -1,8 +1,8 @@
-#### 코드 업로드 완료
-![upload](화면 캡처 2025-05-12 221157.png)
+### 코드 업로드 화면
+![upload_log](hw6_upload_log.png)
 
-#### 시리얼 모니터 - Wi-Fi 연결 및 IP 확인
-![serial](화면 캡처 2025-05-17 152018.png)
+### 시리얼 모니터 - Wi-Fi 연결 및 IP 출력
+![serial_monitor](hw6_serial_monitor.png)
 
-#### 동작 시연 영상
-[유튜브 영상](https://youtu.be/01OXeSwSyf4)
+### 동작 시연 영상
+[https://youtu.be/01OXeSwSyf4](https://youtu.be/01OXeSwSyf4)
